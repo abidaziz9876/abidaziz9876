@@ -19,7 +19,7 @@
 
 I'm a passionate **Backend Software Engineer** with **1+ years** of industry experience in building scalable, secure, and cloud-native backend systems using **Java**, **Spring Boot**, **Go**, **PostgreSQL**, **MongoDB**, **Docker**, and **Kubernetes**.
 
-Currently working at **Initializ.ai**, where I built a custom **Observability Platform** with **OpenTelemetry + ClickHouse**, implemented **Role-Based Access Control**, and led **microservice development** for internal products.
+Previously worked at **Initializ.ai**, where I built a custom **Observability Platform** with **OpenTelemetry + ClickHouse**, implemented **Role-Based Access Control**, and led **microservice development** for internal products.
 
 ---
 
